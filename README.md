@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hi, I’m @asmaaoualidi
 
 👩‍💻 **Artificial Intelligence Student | Assistant Data Analyst**  
