@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h3 align="center">👩‍💻 Artificial Intelligence Student | Assistant Data Analyst</h3><img src=https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaaoualidi&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaoualidi" /> </p>
@@ -9,7 +8,7 @@
 
 - 💬 Ask me about **data visualisation**
 
-- 📫 How to reach me **oualidiasmaa65@gmail.com** <img src=https://tenor.com/fr/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607>
+- 📫 How to reach me **oualidiasmaa65@gmail.com** <img src="https://tenor.com/fr/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
