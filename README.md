@@ -8,7 +8,7 @@
 - 📫 How to reach me **oualidiasmaa65@gmail.com**
 
 - ⚡ Fun fact
-<p align="center"> <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9lNjhla214a2xpeDAzdnplNW0wOTUzMzBnOXl0aG1mZGQwOGUyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WVNnyv96C3iltOFutg/giphy.gif>
+<p align="center"> <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHI2MmllZ3M0NmxvNWp5cXJ0bXV0ZHJ2b3h4bzMzcmd3bWl1MXFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
