@@ -1,23 +1,12 @@
-<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Asmaa</h1>
-<h3 align="center">👩‍💻 Artificial Intelligence Student | Assistant Data Analyst</h3>
-<img src=https://tenor.com/fr/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607>
-=======
 <h3 align="center">👩‍💻 Artificial Intelligence Student | Assistant Data Analyst</h3><img src=https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif>
->>>>>>> e55a63d0197fb16fa92625bc5d43dbcebf92a379
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaaoualidi&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaoualidi" /> </p>
 
 - 🔭 I’m currently working on **power bi project**
 
 - 💬 Ask me about **data Analyst**
-<p align="center"><img src=https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif>
-
-<<<<<<< HEAD
+<p align="center"><img src=https://tenor.com/fr/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607>
 - 📫 How to reach me **oualidiasmaa65@gmail.com**
-=======
-- 📫 How to reach me **oualidiasmaa65@gmail.com** <img src="https://tenor.com/fr/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607">
->>>>>>> e55a63d0197fb16fa92625bc5d43dbcebf92a379
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
