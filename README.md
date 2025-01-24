@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmaa</h1>
-<h3 align="left">👩‍💻 Artificial Intelligence Student | Assistant Data Analyst</h3><img src=https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif> <img src="https://komarev.com/ghpvc/?username=asmaaoualidi&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaoualidi" /> </p>
+<h3 align="left">👩‍💻 Artificial Intelligence Student | Assistant Data Analyst <img src=https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif> <img src="https://komarev.com/ghpvc/?username=asmaaoualidi&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaoualidi" /> </h3>
 
 - 🔭 I’m currently working on **power bi project**
 
@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **oualidiasmaa65@gmail.com**
 
-<p align="center"> <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ5YzFwanU2bWlpYTQ1aTd6eG5zOW5rYWx3cXl5bnhqbWhnenZzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kg6HdYGLOM9g4AqWE3/giphy.gif>
+- ⚡ Fun fact
+<p align="center"> <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9lNjhla214a2xpeDAzdnplNW0wOTUzMzBnOXl0aG1mZGQwOGUyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WVNnyv96C3iltOFutg/giphy.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
