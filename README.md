@@ -5,8 +5,10 @@
 - 🔭 I’m currently working on **power bi project**
 
 - 💬 Ask me about **data Analyst**
-<p align="center"><img src=https://tenor.com/fr/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607>
+
 - 📫 How to reach me **oualidiasmaa65@gmail.com**
+
+- ⚡ Fun fact<div class="tenor-gif-embed" data-postid="25605989" data-share-method="host" data-aspect-ratio="1.0596" data-width="100%"><a href="https://tenor.com/view/code-gif-25605989">Code GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
