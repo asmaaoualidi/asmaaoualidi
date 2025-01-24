@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asmaa</h1>
 <h3 align="center">👩‍💻 Artificial Intelligence Student | Assistant Data Analyst</h3><img src=https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaaoualidi&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaoualidi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asmaaoualidi&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaoualidi" /> </p>
 
 - 🔭 I’m currently working on **power bi project**
 
@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **oualidiasmaa65@gmail.com**
 
-- ⚡ Fun fact <img src=https://tenor.com/fr/view/code-gif-25605989>
+- ⚡ Fun fact 
+<p align="center"> <img src=https://tenor.com/fr/view/code-gif-25605989>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
