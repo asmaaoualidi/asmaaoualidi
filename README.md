@@ -22,7 +22,8 @@
 
 ## 🌊 À propos de moi
 
-```python
+```
+python
 asmaa = {
     "🎓 formation"   : "Ingénieure Informatique & Réseaux — EMSI Rabat",
     "🤖 spécialité"  : "Technicienne IA & Assistante Data Analyste",
@@ -101,7 +102,7 @@ asmaa = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-asmaaoalidi0@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmaaoalidi0@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-asmaaoualidi0@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmaaoalidi0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmaa_Oualidi-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oualidi-asmaa)
 [![GitHub](https://img.shields.io/badge/GitHub-asmaaoualidi-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmaaoualidi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+212_620--460563-0284c7?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212620460563)
