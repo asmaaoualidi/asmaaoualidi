@@ -82,22 +82,6 @@ asmaa = {
 
 ---
 
-## 💼 Expérience professionnelle
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  📍 Data Analyste — OCP Site de Safi                ║
-║  📅 Avril 2025 – Mai 2025                           ║
-║                                                      ║
-║  ✦ Analyse de données industrielles                  ║
-║  ✦ Dashboards Power BI & reporting KPIs              ║
-║  ✦ Visualisation et interprétation des résultats     ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
