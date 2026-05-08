@@ -20,17 +20,7 @@
 
 ---
 
-## 🙋‍♀️ À propos de moi
 
-```python
-asmaa = {
-    "formation"   : "Ingénieure Informatique & Réseaux — EMSI Rabat 🎓",
-    "spécialité"  : "Technicienne IA & Data Analyst 🤖",
-    "passions"    : ["Data Science", "Machine Learning", "Visualisation"],
-    "objectif"    : "Stage PFA d'un mois — ouverte aux opportunités 🚀",
-    "localisation": "Rabat, Maroc 🇲🇦"
-}
-```
 
 
 ---
