@@ -22,7 +22,7 @@
 
 ## 🌊 À propos de moi
 
-```python```
+```python
 asmaa = {
     "🎓 formation"   : "Ingénieure Informatique & Réseaux — EMSI Rabat",
     "🤖 spécialité"  : "Technicienne IA & Assistante Data Analyste",
