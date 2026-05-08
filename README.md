@@ -65,22 +65,7 @@ asmaa = {
 
 ---
 
-## 🚀 Projets scolaires
 
-<div align="center">
-
-| 🔢 Projet | 📝 Description | 🏷️ Stack |
-|:---:|:---|:---:|
-| **Classification K-NN** | Reconnaissance de chiffres manuscrits — Digits Dataset | `Python` `Scikit-learn` |
-| **ETL Ventes — Talend** | Pipeline ETL complet pour intégration de données multi-sources | `Talend` `SQL` |
-| **Dashboard Gapminder** | Application Dash interactive pour visualisation de données mondiales | `Python` `Dash` `Plotly` |
-| **Dr. Semmelweis** | Analyse statistique de données hospitalières historiques | `Python` `Pandas` |
-| **Power BI — RDV médicaux** | Dashboard interactif de suivi des rendez-vous médicaux | `Power BI` `SQL` |
-| **Northwind BI** | Système décisionnel complet : ETL Talend + Dashboard Dash | `Talend` `Dash` `SQL` |
-
-</div>
-
----
 
 
 ---
